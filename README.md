@@ -2,6 +2,6 @@
 
 Move around and eat other balls to gain mass
 
-#Demo
+# Demo
 
 https://joehirst.github.io/MassGame/.
